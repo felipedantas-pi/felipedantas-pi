@@ -7,7 +7,7 @@
 - 🔭 Sou um estudante de mestrado em **Análise e Planejamento Espacial** no [Instituto Federal do Piauí - Campus Teresina Central](https://www.ifpi.edu.br/mapeprof)
 - 🌱 Estou atualmente explorando pesquisas relacionadas a  **acessibilidade geográfica**
 - 🤔 Estou procurando ajuda com os **tópicos acimas**
-- 📫 Como entrar em contato comigo: twitter: [@felipe_maps](https://twitter.com/felipe_maps), linkedin [@iamtekson](https://www.linkedin.com/in/dantasfelipe/)
+- 📫 Como entrar em contato comigo: twitter: [@felipe_maps](https://twitter.com/felipe_maps), linkedin [@dantasfelipe](https://www.linkedin.com/in/dantasfelipe/)
 
 
 ### Cursos Online
