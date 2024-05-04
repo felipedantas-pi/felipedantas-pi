@@ -1,6 +1,6 @@
 ### Sou Felipe Dantas! <img src="https://media.tenor.com/images/18c7abff420e2791934115665b6d4a67/tenor.gif" width="25">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamtekson?style=social)](https://twitter.com/felipe_maps)
+[![Twitter Follow](https://img.shields.io/twitter/follow/felipe_maps?style=social)](https://twitter.com/felipe_maps)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dantasfelipe/)
 <!-- [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://buymeacoffee.com/felipedantas) -->
 
